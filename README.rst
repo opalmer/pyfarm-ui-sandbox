@@ -15,4 +15,10 @@
 About This Repo
 ===============
 
-This is a sandbox repo containing basic web ui tests.
+This is a sandbox repo containing basic web ui tests.  To run code
+in this repo do:
+
+    * pip install -r requirements.txt
+    * cd <a subdirectory>
+    * python server.py
+    * Launch a web browser and navigate to http://127.0.0.1:5000
