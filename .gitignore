@@ -1,0 +1,11 @@
+*sql*
+*.db
+*.log*
+*.pyc
+*.pyo
+*.swp
+*~
+*egg*
+.idea
+build
+dist
